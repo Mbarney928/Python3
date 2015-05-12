@@ -1,2 +1,2 @@
 # Python Programs
-CSC-110 Python 3 Programs.
+CSC-110 Programs, using python version 3.4.
